@@ -1,0 +1,21 @@
+Erstelle einen SSH Key:
+1. Gehe in den home Ordner
+2. Gebe folgende Zeile in dein Terminal ein:
+    ssh-keygen -t rsa -C "HierMussDeineEmailAdresseStehen@gmail.com" -b 4096 <- WICHTIG: In den Klammern muss die eigene persönliche Email Adresse HierMussDeineEmailAdresseStehen
+
+3. Wechsele in den .ssh Ordner durch das Eingeben der folgenden Zeile:
+    cd .ssh
+
+4. Gib den öffentlichen SSH Key durch das Eingeben der folgenden Zeile:
+    cat id_rsa.pub
+5. Markiere den SSH Key mit der Maus, mache mit der Maus einen Rechtsklick und klicke auf kopieren
+
+5. Erstelle bei github (www.github.com) einen Account
+6. Bestätige in deinem Email Postfach die Verifizierungsmail von github
+7. Logge dich bei github ein und klicke oben rechts auf den Pfeil, der deine Kontooptionen öffentlichen
+8. Klicke in dem sich nach unten öffnenden Reiter auf Settings
+9. Klicke in dem sich auf der linken Seite befindlichen Reiter auf SSH and GPG keys
+10. Klicke oben auf den Button New SSH key
+11. Gib unter Title einen beliebigen Namen für deinen Key ein
+12. Füge deinen kopierten SSH key unter Key ein
+13. Klicke auf Add SSH key

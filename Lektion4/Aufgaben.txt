@@ -1,0 +1,1 @@
+1. Erstelle eine Klasse, in der die üblichen Minecraftbefehle leichter ausgeführt werden können

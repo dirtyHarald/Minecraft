@@ -1,0 +1,10 @@
+1. Logge dich bei github ein (www.github.com)
+2. Klicke oben rechts auf den Pfeil, der deine Kontooptionen öffnet
+3. Klicke auf Your repositories
+4. Klicke auf New
+5. Gib unter Repository name einen Namen für dein Repository ein
+6. Klicke auf Create repository
+7. Klicke auf Clone or download
+8. Markiere und kopiere den Link
+9. Öffne dein Terminal und gib die folgende Zeile in dein Terminal ein:
+    git clone LinkZuDeinemTerminal <- WICHTIG hier musst du den kopierten Link aus deinem github Repository einfügen, kann so aussehen -> git clone https://github.com/NilsReuter/MinecraftForHSHL.git

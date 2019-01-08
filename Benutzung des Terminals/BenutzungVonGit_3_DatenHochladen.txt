@@ -1,0 +1,5 @@
+1. Navigiere zu dem Ordner, in dem du Änderungen vorgenommen hast
+2. Gib in das Terminal folgende Zeile ein:
+    git add .
+    git commit -avm "Hier kannst du deine Änderungen kommentieren"
+    git push

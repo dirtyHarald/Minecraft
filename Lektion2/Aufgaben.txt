@@ -1,0 +1,13 @@
+1. teleportiere Avatar zur Zufallsposition (aus Lektion 1)
+    --> Erweitere das Programm so, dass im Spiel ausgegeben wird, wie häufig der Avatar bereits teleportiert wurde.
+
+2. teleportiere Avatar zur Wunschposition (aus Lektion 1)
+    --> Verändere das Programm so, dass bei einer ungültigen Eingabe eine Exception geworfen wird und eine erneute Eingabe erfolgen muss
+
+3. baue ein Haus
+    --> Erweitere das Programm so, dass das Haus innen hohl ist und zu allen Seiten eine Wanddicke von einer Einheit hat
+    --> Verändere das Programm so, dass das Material des Hauses bei Aufruf des Programms festgelegt werden kann
+    --> Verändere das Programm so, dass das Haus an der Position des Avatars entsteht
+    --> Verändere das Programm so, dass die Größe des Hauses erst durch die Eingabe beim Programmaufruf festgelegt wird.
+    --> Erweitere das Haus um ein Spitzdach
+    --> Erweitere das Haus um Fester auf jeder Seite

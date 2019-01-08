@@ -1,0 +1,13 @@
+1. baue eine Treppe
+    --> Verändere das Programm so, dass das Material der Treppe bei Aufruf des Programms festgelegt wird. Das Material soll dabei nicht durch
+        die Eingabe einer Zahl festgelegt werden, sondern durch die Eingabe eines Begriffs (z.b. Holz).
+    --> Verändere das Programm so, dass die Treppe beim Avatar gebaut wird.
+    --> Verändere das Programm so, dass die Höhe beim Aufruf des Programms festgelegt wird.
+
+2. baue eine Wendeltreppe
+    --> übernimm die gleichen Veränderungen, wie bei der Treppe
+    --> Verändere das Programm so, dass eine Wendeltreppe anstatt einer gewöhnlichen Treppe gebaut wird.
+
+3. baue ein Haus (aus Lektion 2)
+    --> Erweitere das Haus um eine zweite Etage
+    --> Baue die Wendeltreppe aus Lektion 3 in das Haus - Wendeltreppe soll im Hausprogramm aufgerufen werden

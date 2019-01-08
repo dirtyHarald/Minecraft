@@ -1,0 +1,20 @@
+1. bekomme die Position des Avatars
+    --> Erweitere das Programm so, dass im Spiel die Position deines Avatar ausgegeben wird
+
+2. setze einen Block
+    --> Verändere das Programm so, dass die Position für den zu setzenden Stein durch Variablen in die Funktion setBlock festgelegt wird
+
+3. teleportiere Avatar
+    --> Teleportiere den Avatar 60 Höheneinheiten über die Startposition (die Startposition befindet sich bei (0, 0, 0)
+    --> Erweitere das Programm so, dass der Avatar nach dem Teleport immer festen Boden unter den Füßen hat
+
+4. teleportiere den Avatar zur Wunschposition
+    --> Erweitere das Programm so, dass die Teleportation nicht durchgeführt wird, wenn sich die Wunschposition unter der Erde befindet
+
+5. teleportiere Avatar zur Zufallsposition
+    --> Erweitere das Programm so, dass der Avatar 5 mal teleportiert wird. Nach jedem Teleport sollen 5 Sekunden vergehen, bis wieder teleportiert werden darf
+    --> Erweitere das Programm so, dass der Avatar nicht unter die Erde teleportiert wird. Es soll trotzdem genau 5 mal teleportiert werden.
+
+6. verfolge Avatar mit Wasser
+    --> verändere das Programm so, dass der Avatar nicht von Wasser, sondern von zufälligen Gegenständen verfolgt wird
+    --> verändere das Programm so, dass der Avatar von mehreren Gegenständen gleichzeitig verfolgt wird.

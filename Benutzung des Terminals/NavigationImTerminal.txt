@@ -1,0 +1,43 @@
+Wechsele den Ordner
+cd NameDesWunschordners
+
+Beispiel:
+cd Dokumente <- Wechselt in den Ordner Dokumente
+
+Beispiel2:
+cd .. <- Wechselt in den um einen höher gelegenen Ordner
+
+Beispiel3:
+cd ../.. Wechselt in den um zwei höher gelegenen Ordner
+
+Beispiel4:
+cd <- Wechselt in den home Ordner
+
+Zeige alle Dokumente und Datein an, die sich in dem aktuellen Ordner befinden
+ls
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+Erstelle einen neuen Ordner
+mkdir NameDesNeuenOrdners
+
+Beispiel:
+mkdir OrdnerFuerMinecraft <- Erstellt einen Ordner mit dem Namen OrdnerFuerMinecraft
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+Erstelle eine neue Datei
+nano NameDerNeuenDatei
+
+Beispiel:
+nano MeineErstesMinecraftSkript.py <- Erstellt eine Datei mit dem Namen MeineErstesMinecraftSkript.py, welches vom Typ Python ist
+
+Beispiel2:
+nano Beschreibung.txt <- Erstellt eine Datei mit dem Namen Beschreibung, welches vom Typ Text ist
+
+Verlasse den Texteditor nano durch folgende Eingaben
+1. Schritt: Stg + x
+2. Schritt: y
+3. Schritt: Enter
